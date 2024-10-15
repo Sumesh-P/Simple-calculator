@@ -8,11 +8,6 @@ body {
     margin: 0;
     transition: background-color 0.3s, color 0.3s;
 }
-
-.theme-toggle {
-    margin-bottom: 10px;
-}
-
 .calculator {
     border: 1px solid #ccc;
     padding: 10px;
